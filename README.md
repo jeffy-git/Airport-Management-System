@@ -14,6 +14,9 @@ airport-management-system/
 ├── package.json           # Project dependencies
 └── README.md              # Documentation
 
+<img width="826" height="421" alt="image" src="https://github.com/user-attachments/assets/120deb54-ef3b-4b56-8ea5-0b8dcecfde70" />
+
+
 ⚙️ Features:
 ✈️ Manage flights (Add, Update, Delete, View)
 👥 Passenger booking with seat allocation & booking reference
